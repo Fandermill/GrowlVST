@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="QuickTest" RRGroupAmount="1.0" MicPositions=";" CrossfadeGamma="0.995">
+  <sample Root="60" LoKey="60" HiKey="60" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}M2-fuck-h.wav" Duplicate="1" LoopXFade="2000"
+          LoopStart="45028" SampleStart="0" LoopEnd="80742" LoopEnabled="1"
+          GainTable="" LowPassTable=""/>
+</samplemap>
